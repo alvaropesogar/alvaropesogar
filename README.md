@@ -1,6 +1,10 @@
-# Hi there! 👋 I'm Álvaro Peso García
-
 <div align="center">
+
+<p align="center">
+  <img src="banner.jpg" alt="Álvaro Peso García Banner" />
+</p>
+
+# Hi there! 👋 I'm Álvaro Peso García
 
 **Senior Full Stack Developer** 🚀 | **Software Engineer** 💻 | **Tech Entrepreneur** 🏗️
 
